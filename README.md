@@ -7,7 +7,7 @@ A startup called Sparkify wants to analyze the data they've been collecting on s
 
 Change the two directory of json files: song_data and log_data to a postgres database that faciliate the analytics team to understand what songs users are listening to.
 
-![alt text](file:///Users/mengli/Downloads/Postgres%20ETL.pdf)
+![alt text](Untitled drawing.png)
 
 # Steps
 - Create tables for start schema
